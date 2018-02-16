@@ -23,6 +23,18 @@ Amor ao conhecimento.
 - ***Cosmos:*** Ciclo de transformações.
 - ***Caos:*** Matéria sem nenhuma ordem.
 - ***Arché:*** Principio originário.
+- ***Polis:*** Cidade.
+- ***Ápeiron:*** Ilimitado.
 
 ### Tales de Mileto
 
+- Primeiro filósofo do qual se tem notícia.
+- Cidade de Mileto (Região da Ásia menor onde hoje é a Turquia).
+- Àgua como elemento regulador universal para as transformações da *Physis*.
+> "Tudo é água."
+
+### Anaximandro de Mileto
+
+> "A origem de tudo é o *ápeiron*".
+
+> "de onde as coisas têm seu nascimento, aí também devem ir ao fundo[...]"
