@@ -19,6 +19,11 @@ Amor ao conhecimento.
 - Pré Sócrates.
 - Filósofos da natureza.
 - Questionar sobre a natureza e os ciclos de transformação.
+- [Tale de Mileto](tales-de-mileto.md).
+- [Anaximandro de Mileto](anaximandro-de-mileto.md).
+
+## Glosário
+
 - ***Physis:*** Natureza.
 - ***Cosmos:*** Ciclo de transformações.
 - ***Caos:*** Matéria sem nenhuma ordem.
