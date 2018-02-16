@@ -24,9 +24,9 @@ Amor ao conhecimento.
 
 ## Glosário
 
-- ***Physis:*** Natureza.
-- ***Cosmos:*** Ciclo de transformações.
-- ***Caos:*** Matéria sem nenhuma ordem.
-- ***Arché:*** Principio originário.
-- ***Pólis:*** Cidade.
 - ***Ápeiron:*** Ilimitado ou indeterminado.
+- ***Arché:*** Principio originário.
+- ***Caos:*** Matéria sem nenhuma ordem.
+- ***Cosmos:*** Ciclo de transformações.
+- ***Physis:*** Natureza.
+- ***Pólis:*** Cidade-Estado.
