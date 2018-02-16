@@ -28,5 +28,5 @@ Amor ao conhecimento.
 - ***Cosmos:*** Ciclo de transformações.
 - ***Caos:*** Matéria sem nenhuma ordem.
 - ***Arché:*** Principio originário.
-- ***Polis:*** Cidade.
+- ***Pólis:*** Cidade.
 - ***Ápeiron:*** Ilimitado ou indeterminado.
