@@ -29,4 +29,4 @@ Amor ao conhecimento.
 - ***Caos:*** Matéria sem nenhuma ordem.
 - ***Arché:*** Principio originário.
 - ***Polis:*** Cidade.
-- ***Ápeiron:*** Ilimitado.
+- ***Ápeiron:*** Ilimitado ou indeterminado.
