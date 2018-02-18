@@ -19,7 +19,7 @@ Amor ao conhecimento.
 - Pré Sócrates.
 - Filósofos da natureza.
 - Questionar sobre a natureza e os ciclos de transformação.
-- [Tale de Mileto](tales-de-mileto.md).
+- [Tales de Mileto](tales-de-mileto.md).
 - [Anaximandro de Mileto](anaximandro-de-mileto.md).
 - [Pitágoras de Samos](pitagoras-de-samos.md).
 
