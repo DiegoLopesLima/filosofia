@@ -19,7 +19,7 @@
 	- [Anaximandro de Mileto](filosofos/anaximandro-de-mileto.md).
 	- [Pitágoras de Samos](filosofos/pitagoras-de-samos.md).
 - [Ser, não-ser, vir-a-ser](assuntos/ser-nao-ser-vir-a-ser.md)
-	- [Heráclito de Éfeso](filosofos/heraclito de efeso.md).
+	- [Heráclito de Éfeso](filosofos/heraclito-de-efeso.md).
 
 ## Glosário
 
