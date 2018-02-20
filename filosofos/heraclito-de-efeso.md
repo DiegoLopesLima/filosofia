@@ -6,6 +6,7 @@
 - *Arché* não poderia ser algo imutável dado o constante movimento presente em todas as coisas.
 - Mundo como um eterno *vir-a-ser*.
 - *Ser* e *não-ser* são apenas abstrações, são a mesma coisa.
+- Nenhuma coisa *é*, pois *está sendo*. 
 
 > "Este mundo sempre será um fogo sempre vivo"
 
