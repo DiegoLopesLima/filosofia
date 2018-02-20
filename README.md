@@ -15,11 +15,11 @@
 - Anteriores à Sócrates.
 - Filósofos da natureza.
 - Questionar sobre a *physis* e seus ciclos de transformação (*Cosmos*).
-- [Tales de Mileto](filosofos/tales-de-mileto.md).
-- [Anaximandro de Mileto](filosofos/anaximandro-de-mileto.md).
-- [Pitágoras de Samos](filosofos/pitagoras-de-samos.md).
+- [Tales de Mileto](filosofos/tales-de-mileto.md)
+- [Anaximandro de Mileto](filosofos/anaximandro-de-mileto.md)
+- [Pitágoras de Samos](filosofos/pitagoras-de-samos.md)
 - [Ser, não-ser, vir-a-ser](assuntos/ser-nao-ser-vir-a-ser.md)
-- [Heráclito de Éfeso](filosofos/heraclito-de-efeso.md).
+- [Heráclito de Éfeso](filosofos/heraclito-de-efeso.md)
 - [Parmênides de Eléia](filosofos/parmenides-de-eleia.md)
 
 ## Glosário
