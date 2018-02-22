@@ -1,32 +1,38 @@
 # Filosofia
 
-- Amor ao conhecimento.
-- Surgiu na Grécia à cerca de 2600 anos.
+A filosofia surgiu na Grécia há cerca de 2600 anos no século VI a.C. A palavra filosofia tem origem grega (_philosophia_) composta pelas palavras _philo_ e _sophia_. _Philo_, derivado de _philia_ que pode ser traduzido como amizade ou amor fraterno, e _sophia_ significa sabedoria.
+
+A palavra filosofia, portanto, pode ser traduzida como amor pela sabedoria.
+
 - Filósofos precursores: Platão, Aristóteles e Sócrates.
 - Uma forma de se pensar.
 - Busca pelo conhecimento através do questionamento.
 - Sem questões, não há conhecimento.
-- [Mitologia](assuntos/mitologia.md).
 
-> "Todos os homens têm, por natureza, desejo de conhecer [...]" - Aristóteles.
+## Mitologia
 
-## Pré-socráticos
+A mitologia ao contrário do que muitos podem pensar, tem papel importante na filosofia.
 
-- Anteriores à Sócrates.
-- Filósofos da natureza.
-- Questionar sobre a *physis* e seus ciclos de transformação (*Cosmos*).
-	- [Tales de Mileto](filosofos/tales-de-mileto.md).
-	- [Anaximandro de Mileto](filosofos/anaximandro-de-mileto.md).
-	- [Pitágoras de Samos](filosofos/pitagoras-de-samos.md).
-- [Ser, não-ser, vir-a-ser](assuntos/ser-nao-ser-vir-a-ser.md)
-	- [Heráclito de Éfeso](filosofos/heraclito-de-efeso.md).
-	- [Parmênides de Eleia](filosofos/parmenides-de-eleia.md)
+## Filósofos pré-socráticos
+
+São chamados de pré-socráticos os filósofos anteriores à [Sócrates](#). Eram conhecidos por pensarem principalmente sobre questões relacionadas à _physis_, palavra do latim que significa natureza e à questões relacionadas às transformações que ocorriam na natureza, chamadas de _cosmos_.
+
+- [Tales de Mileto](#)
+- [Anaximandro de Mileto](#)
+- [Anaxímenes de Mileto](#)
+- [Pitágoras de Samos](#)
+- [Heráclito de Éfeso](#)
+- [Parmênides de Eléia](#)
 
 ## Glosário
 
-- ***Ápeiron:*** Ilimitado ou indeterminado.
-- ***Arché:*** Principio originário.
-- ***Caos:*** Matéria sem nenhuma ordem.
-- ***Cosmos:*** Ciclo de transformações.
-- ***Physis:*** Natureza.
-- ***Pólis:*** Cidade-Estado.
+| Palavra       | Idioma | Descrição                             |
+|---------------|--------|---------------------------------------|
+| _abstracione_ | Latim  | Separação, Abstração.                 |
+| _ágora_       | Latim  | Praça.                                |
+| _ápeiron_     | Latim  | Ilimitado ou indeterminado.           |
+| _arché_       | Latim  | Principio originário.                 |
+| _caos_        | Latim  | Matéria sem nenhuma ordem.            |
+| _cosmos_      | Latim  | Ciclo de transformações.              |
+| _physis_      | Latim  | Natureza.                             |
+| _pólis_       | Latim  | Cidade-Estado.                        |
