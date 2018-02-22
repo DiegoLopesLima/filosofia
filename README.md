@@ -10,7 +10,7 @@
 
 > "Todos os homens têm, por natureza, desejo de conhecer [...]" - Aristóteles.
 
-## Pré-socraticos
+## Pré-socráticos
 
 - Anteriores à Sócrates.
 - Filósofos da natureza.
@@ -20,7 +20,7 @@
 	- [Pitágoras de Samos](filosofos/pitagoras-de-samos.md).
 - [Ser, não-ser, vir-a-ser](assuntos/ser-nao-ser-vir-a-ser.md)
 	- [Heráclito de Éfeso](filosofos/heraclito-de-efeso.md).
-	- [Parmênides de Eléia](filosofos/parmenides-de-eleia.md)
+	- [Parmênides de Eleia](filosofos/parmenides-de-eleia.md)
 
 ## Glosário
 
