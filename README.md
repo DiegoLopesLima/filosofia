@@ -1,6 +1,6 @@
 # Filosofia
 
-A filosofia surgiu na Grécia há cerca de 2600 anos no século VI a.C. A palavra filosofia tem origem grega (_philosophia_) composta pelas palavras _philo_ e _sophia_. _Philo_, derivado de _philia_ que pode ser traduzido como amizade ou amor fraterno, e _sophia_ significa sabedoria.
+A filosofia surgiu na Grécia há cerca de 2600 anos no século VI a.C.. A palavra filosofia tem origem grega composta pelas palavras _philo_ e _sophia_. _Philo_, derivado de _philia_ que pode ser traduzido como amizade ou amor fraterno, e _sophia_ significa sabedoria.
 
 A palavra filosofia, portanto, pode ser traduzida como amor pela sabedoria.
 
@@ -15,7 +15,7 @@ A mitologia ao contrário do que muitos podem pensar, tem papel importante na fi
 
 ## Filósofos pré-socráticos
 
-São chamados de pré-socráticos os filósofos anteriores à [Sócrates](#). Eram conhecidos por pensarem principalmente sobre questões relacionadas à _physis_, palavra do latim que significa natureza e à questões relacionadas às transformações que ocorriam na natureza, chamadas de _cosmos_.
+São chamados de pré-socráticos os filósofos anteriores à [Sócrates](#), o primeiro grande pensador. Eram conhecidos por pensarem principalmente sobre questões relacionadas à _physis_, palavra do latim que significa natureza e à questões relacionadas às transformações que ocorriam na natureza, chamadas de _cosmos_.
 
 - [Tales de Mileto](#)
 - [Anaximandro de Mileto](#)
@@ -24,15 +24,14 @@ São chamados de pré-socráticos os filósofos anteriores à [Sócrates](#). Er
 - [Heráclito de Éfeso](#)
 - [Parmênides de Eléia](#)
 
-## Glosário
+## Etimologia
 
-| Palavra       | Idioma | Descrição                             |
-|---------------|--------|---------------------------------------|
-| _abstracione_ | Latim  | Separação, Abstração.                 |
-| _ágora_       | Latim  | Praça.                                |
-| _ápeiron_     | Latim  | Ilimitado ou indeterminado.           |
-| _arché_       | Latim  | Principio originário.                 |
-| _caos_        | Latim  | Matéria sem nenhuma ordem.            |
-| _cosmos_      | Latim  | Ciclo de transformações.              |
-| _physis_      | Latim  | Natureza.                             |
-| _pólis_       | Latim  | Cidade-Estado.                        |
+- [_abstracione_](#)
+- [_ágora_](#)
+- [_ápeiron_](#)
+- [_arché_](#)
+- [_caos_](#)
+- [_cosmos_](#)
+- [_philosophia_](#)
+- [_physis_](#)
+- [_pólis_](#)
